@@ -4,7 +4,7 @@ if game.PlaceId == 537413528 then
 local BooHub = loadstring(game:HttpGet("https://raw.githubusercontent.com/zachisfunny/BooHub/main/Boo"))()
 
 local UI = BooHub.Load({
-     Title = "Hacker Lab",
+     Title = "Hub",
      Style = 0,
      SizeX = 400,
      SizeY = 300,
