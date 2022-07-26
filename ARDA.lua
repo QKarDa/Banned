@@ -24,7 +24,7 @@ local Page3 = UI.New({
 })
 
 Page.Label({
-    Text = "Leaked by KD"
+    Text = "Merhaba Ben Arda"
 })
 
 
