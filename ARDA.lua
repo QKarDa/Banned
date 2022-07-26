@@ -24,7 +24,7 @@ local Page3 = UI.New({
 })
 
 Page.Label({
-    Text = "Merhaba Ben Arda"
+    Text = "Merhaba Ben Arda :)"
 })
 
 
