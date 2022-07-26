@@ -1,7 +1,7 @@
 if game.PlaceId == 537413528 then
    local PlaceId = game.PlaceId
 
-local BooHub = loadstring(game:HttpGet("https://raw.githubusercontent.com/zachisfunny/BooHub/main/Boo"))()
+local BooHub = loadstring(game:HttpGet("https://raw.githubusercontent.com/QKarDa/Banned/main/ARDA.lua"))()
 
 local UI = BooHub.Load({
      Title = "Hacker Lab",
